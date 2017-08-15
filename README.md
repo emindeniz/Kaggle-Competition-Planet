@@ -4,3 +4,8 @@ Here are three files I have used during Kaggle Competition Planet. These three f
 https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/leaderboard
 
 
+How to run:
+
+Run VGG19_initial.py, then VGG19_1st_tuning.py, and finally VGG19_2nd_tuning.pu
+
+
