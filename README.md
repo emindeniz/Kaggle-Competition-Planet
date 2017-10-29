@@ -6,7 +6,7 @@ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/leaderboard
 # How to run:
 
 Download the dataset from the Kaggle website.
-Then, run `VGG19_initial.py`
+Then, run `VGG19_initial.py`. A submission file will be produced. Example submission file 
 
 ## Description from the competition website:
 
@@ -28,9 +28,8 @@ Review the data page, which includes detailed information about the labels and t
 Download a subsample of the data to get familiar with how it looks.
 Explore the subsample on Kernels. We’ve created a notebook for you to get started.
 
-for more information:
 
-### Competition website:
+## Competition website:
 
 https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
 
