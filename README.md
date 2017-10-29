@@ -5,8 +5,8 @@ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/leaderboard
 
 # How to run:
 
-Download the dataset from the Kaggle website
-Run VGG19_initial.py
+Download the dataset from the Kaggle website.
+Then, run `VGG19_initial.py`
 
 ## Description from the competition website:
 
