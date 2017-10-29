@@ -6,7 +6,7 @@ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/leaderboard
 # How to run:
 
 Download the dataset from the Kaggle website.
-Then, run `VGG19_initial.py`. A submission file will be produced. Example submission file 
+Then, run `VGG19_initial.py`. A submission file will be produced. Example submission file `predictions.csv` is also included.
 
 ## Description from the competition website:
 
